@@ -50,7 +50,7 @@ Projemizin görsel tasarımını burada hayal edin: 🖼️
 ## 🚀 Bu Projeyi Nasıl Kullanırım?
 
 **Adım 1:** SQL Server'ı açın.  
-**Adım 2:** Bu projeye ait `zumrut_emlak.sql` dosyasını yükleyin.  
+**Adım 2:** Bu projeye ait `zumrut-emlak.sql` dosyasını yükleyin.  
 **Adım 3:** Tablolar oluşturulsun, veriler yüklensin! 🎉  
 **Adım 4:** Artık kendi veritabanınızı test edebilir ve sorgular yazabilirsiniz.
 
