@@ -1,4 +1,4 @@
-# EMLAK-OFIS-VERITABANI-VE-YONETIMI
+
 # 🏡 Zümrüt Emlak Veritabanı Projesi
 
 **Bir ev al, hayatını kolaylaştır!**  
